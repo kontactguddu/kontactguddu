@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on android development
-- 📫 How to reach me by mail me kontactguddu@gmail.com
+- 📫 How to reach me by mail me coldmilkhottea@gmail.com
 
 <!---
 kontactguddu/kontactguddu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
