@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Guddu
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on android development
+- 🌱 I’m currently doing DSA
+- 💞️ I’m looking to collaborate on DSA.
 - 📫 How to reach me by mail me coldmilkhottea@gmail.com
 - ✨ Also reach me through website https://kontactguddu.github.io/
 
