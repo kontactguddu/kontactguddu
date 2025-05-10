@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Guddu
 - 👀 I’m interested in coding.
-- 🌱 I’m currently doing DSA
-- 💞️ I’m looking to collaborate on DSA.
+- 💞️ I’m looking to collaborate on developing ML model for my website.
 - 📫 How to reach me by mail me coldmilkhottea@gmail.com
 - ✨ Also reach me through website  https://gameon-frontend.web.app
 
